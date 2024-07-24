@@ -1,0 +1,6 @@
+@WebApplicationHacker_HostAddress = http://localhost:5152
+
+GET {{WebApplicationHacker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
