@@ -12,5 +12,6 @@ This web application helps to get data from a public API from Hack News
 
 * Open the solution in Visual Studio
 * Set Https project as Startup Project and run the project.
-<img width="595" alt="image" src="https://github.com/user-attachments/assets/cacfce7e-5365-4311-9583-70d8b32db9b1">
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/42d8801c-3555-4e7c-9172-00c918f91a8a">
+
 
