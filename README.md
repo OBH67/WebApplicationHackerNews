@@ -1,5 +1,5 @@
 # WebApplicationHackerNews
-This web application helps to get data from a public API from Hack News
+In partnership with Firebase, we're making the public Hacker News data available in near real time. Firebase enables easy access from Android, iOS and the web. Servers aren't left out. This web application will get all the data from Hacker News API and the user can get all the data or filter by a specific hack new id.
 
 # ASP.NET Core Resftul App
 
