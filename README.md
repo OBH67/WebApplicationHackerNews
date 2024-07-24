@@ -18,4 +18,9 @@ In partnership with Firebase, we're making the public Hacker News data available
        attachments/assets/42d8801c-3555-4e7c-9172-00c918f91a8a">
   5. Swagger platform will start and user can start thd test or use other software to request the endpoints
 
+## Endpoints exmple
+curl -X 'GET' \  'https://localhost:7150/HackNews/GetDataById?Id=41002195' \  -H 'accept: text/plain'
+curl -X 'GET' \  'https://localhost:7150/HackNews/GetAll' \  -H 'accept: text/plain'
+curl -X 'POST' \  'https://localhost:7150/HackNews/GetDataByIds' \  -H 'accept: text/plain' \  -H 'Content-Type: application/json' \  -d '[  41002195, 41046773]
+
 
